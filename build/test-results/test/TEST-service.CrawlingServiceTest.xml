@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.CrawlingServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-07T05:49:39" hostname="DESKTOP-14JJLV8" time="0.677">
+  <properties/>
+  <testcase name="getHtmlSourceCodeTest" classname="service.CrawlingServiceTest" time="0.677"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
